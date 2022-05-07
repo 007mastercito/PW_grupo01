@@ -1,0 +1,40 @@
+#rectanguloEncabezado {
+    width: 100%;
+    height: 30%;
+    border: 5px solid #555 ;
+    background-color: rgba(3, 255, 255, 0.221);
+    vertical-align: middle;
+    
+}
+
+.rectangulosCuerpo {
+    height: 550px;
+    border: 5px solid #555 ;
+    margin-bottom: 5%;
+    margin-top: 50px;
+    margin: 5%;
+    background-color: rgba(3, 255, 255, 0.221);
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.pregunta {
+    margin-top: 30px;
+    border: 2px solid #555;
+    margin: 20px;
+    height: fit-content;
+}
+
+.imgPaciente {
+    max-width: 70px;
+    max-height: 70px;
+    margin-top: 25px;
+}
+
+.btnResponder {
+    width: 8cm;
+}
+
+.nombres {
+    margin-top:40px; 
+}
