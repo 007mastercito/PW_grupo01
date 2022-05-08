@@ -1,0 +1,17 @@
+#encabezado {
+    background-color: #b6d1d4;
+    color: #00838F;
+    margin-top: 0;
+}
+.rectangulo {
+    background-color: #b6d1d4;
+    width: 80%;
+    margin-bottom: 8%;
+}
+
+.imgMensaje {
+    width: 75px;
+    height: 68px;
+    margin-top: 1%;
+    text-align: center;
+}
