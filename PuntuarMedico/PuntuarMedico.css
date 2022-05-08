@@ -1,5 +1,5 @@
 #comentario {
-    border: 2px solid rgb(49, 131, 213);
+    border: 2px solid #00838F;
 }
 
 #divImgMedico {
@@ -14,11 +14,12 @@
 .imgMedico {
     width: 90px;
     height: 90px;
-    border:3px solid #555;
+    border:3px solid #00838F;
     padding: 5px;
     border-radius: 50%;
 }
 
 .body {
     margin-top: 12%;
+    color: #00838F;
 }
